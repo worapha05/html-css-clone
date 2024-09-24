@@ -1,0 +1,28 @@
+.section-client {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.section-client__heading {
+    font-size: 36px;
+    color: #4D4D4D;
+    margin-bottom: 10px;
+}
+
+.section-client__text {
+    font-size: 16px;
+    color: #717171;
+    margin-bottom: 10px;
+}
+
+.section-client__box-image {
+    display: flex;
+}
+
+.section-client__box-image div{
+    margin: 25px 32px;
+}
+
